@@ -1,104 +1,93 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-
-    # Profile information
-    name: Deep Kumar Patel
-    tagline: Project Engineer at Wipro Limited
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-
-    # Sidebar links
-     email: deepp261097@gmail.com
-    phone: +91-7706069223
-    website:  #do not add http://
-    linkedin: deep-kumar-patel
-    github: deepezio
-    gitlab:
-    bitbucket:
-    twitter: '@deep_ezio'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
-    languages:
-      - idiom: Hindi
-        level: Native
-
-      - idiom: English
-        level: Professional
-
-    interests:
-      - item: Writing
-        link:
-
-      - item: PC Gaming
-        link:
-
-      - item: Gadgets & Technology
-        link:
-
+  about: false
+  education: true
+  name: Deep Kumar Patel
+  tagline: Project Engineer at Wipro Limited
+  avatar: profile.jpg
+  email: deepp261097@gmail.com
+  phone: +91-7706069223
+  website: null
+  linkedin: deep-kumar-patel
+  github: deepezio
+  gitlab: null
+  bitbucket: null
+  twitter: '@deep_ezio'
+  stack-overflow: null
+  codewars: null
+  goodreads: null
+  languages:
+    - idiom: Hindi
+      level: Native
+    - idiom: English
+      level: Professional
+  interests:
+    - item: Writing
+      link: null
+    - item: PC Gaming
+      link: null
+    - item: Gadgets & Technology
+      link: null
 career-profile:
-    title: Career Profile
-    summary: |
-      Experienced Project Engineer with a demonstrated history of working in the information technology and services industry. 
-      Skilled in DevOps, Microservices, Spring Boot, Java and Amazon AWS. Strong engineering professional with a Bachelor of Technology - B.Tech.
-      focused in Computer Science and Engineering with Specialization in Cloud Computing & Virtualization from Galgotias University. 
+  title: Career Profile
+  summary: >
+    Experienced Project Engineer with a demonstrated history of working in the
+    information technology and services industry. 
 
+    Skilled in DevOps, Microservices, Spring Boot, Java and Amazon AWS. Strong
+    engineering professional with a Bachelor of Technology - B.Tech.
+
+    focused in Computer Science and Engineering with Specialization in Cloud
+    Computing & Virtualization from Galgotias University. 
 education:
-    - degree: BTech Computer Science & Engineering with Specialization in Cloud Computing
-      university: Galgotias University, Greater Noida
-      time: 2015 - 2019
-      details: |
-           7.29 CGPA
-    - degree: Senior School Certification (12th)
-      university: Air Force School, Allahabad
-      time: 2014 - 2015
-      details: |
-           74% (PCM)
-
+  - degree: >-
+      BTech Computer Science & Engineering with Specialization in Cloud
+      Computing
+    university: 'Galgotias University, Greater Noida'
+    time: 2015 - 2019
+    details: |
+      7.29 CGPA
+  - degree: Senior School Certification (12th)
+    university: 'Air Force School, Allahabad'
+    time: 2014 - 2015
+    details: |
+      74% (PCM)
 experiences:
-    - role: Project Engineer
-      time: July, 2019 - Present
-      company: Wipro Limited, Bengaluru
-      details: |
-       Committed Project Engineer with 1+ year of experience in Microservices and DevOps. Adept at following directions and taking the initiative to assist coworkers and clients in various ways. Dedicated to quality assurance and solution-oriented thinking.
-
+  - role: Project Engineer
+    time: 'July, 2019 - Present'
+    company: 'Wipro Limited, Bengaluru'
+    details: >
+      Committed Project Engineer with 1+ year of experience in Microservices and
+      DevOps. Adept at following directions and taking the initiative to assist
+      coworkers and clients in various ways. Dedicated to quality assurance and
+      solution-oriented thinking.
 projects:
-    title: Projects
-    intro: >
-    assignments:
-      - title: Nearby friends tracker
-        link: "#hook"
-        tagline: "Developed a real time location tracker app using Google Maps API and Android using GPS for positioning."
-
-      - title: Cloud Services
-        link: "#"
-        tagline: "Developed a bunch of cloud services running on intranet facilitating storage, media player and content downloading."
-
-
-
+  title: Projects
+  intro: ''
+  assignments:
+    - title: Nearby friends tracker
+      link: '#hook'
+      tagline: >-
+        Developed a real time location tracker app using Google Maps API and
+        Android using GPS for positioning.
+    - title: Cloud Services
+      link: '#'
+      tagline: >-
+        Developed a bunch of cloud services running on intranet facilitating
+        storage, media player and content downloading.
 skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-       - name: Java
-        level: 80%
-
-      - name: Jenkins
-        level: 70%
-
-      - name: Spring Boot
-        level: 75%
-
-      - name: Docker
-        level: 65%
-
-      - name: Microservices
-        level: 70%
-
+  title: Skills &amp; Proficiency
+  toolset:
+    - name: Java
+      level: 80%
+    - name: Jenkins
+      level: 70%
+    - name: Spring Boot
+      level: 75%
+    - name: Docker
+      level: 65%
+    - name: Microservices
+      level: 70%
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a
+  href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying
+  Riley</a>
